@@ -20,6 +20,7 @@ Assumptions:
 OPERATIONS
   Anually thereafter, you need to pay an annual registration fee (ARF) on or before 30JAN.
   Every time you are paid, you need to issue an OR to payor and record transactions in the ledger.
+  You need to file 3 quarterly returns and the annual return.
 
 FILING RETURNS
   1ST QUARTER APR15 | Form 1701Qv2018
