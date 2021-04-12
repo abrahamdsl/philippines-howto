@@ -4,6 +4,7 @@
 Assumptions:
   Annual revenue for the year in concern is maximum 3 million PHP.
   There will be no other income sources [where such income are not subject to final tax. ], like a concurrent employer-employee relationship / part time work.
+  Calendar year is the person's financial/fiscal year.
 
 1) On the first business day of the year/before starting business/profession/consultancy:
   A. Go to your LGU's Treasury Office to request for an Occupational Tax Receipt(OTR).
