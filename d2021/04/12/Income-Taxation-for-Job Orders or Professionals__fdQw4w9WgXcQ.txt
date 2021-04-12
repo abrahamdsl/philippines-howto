@@ -1,6 +1,9 @@
 #permalink: https://github.com/abrahamdsl/philippines-howto/d2021/04/12/Income-Taxation-for-Job Orders or Professionals__fdQw4w9WgXcQ.txt
-
 # DISCLAIMER: I'm not a lawyer/CPA and this is not a binding legal advice.
+
+Assumptions:
+  Annual revenue for the year in concern is maximum 3 million PHP.
+  There will be no other income sources [where such income are not subject to final tax. ], like a concurrent employer-employee relationship / part time work.
 
 1) On the first business day of the year/before starting business/profession/consultancy:
   A. Go to your LGU's Treasury Office to request for an Occupational Tax Receipt(OTR).
