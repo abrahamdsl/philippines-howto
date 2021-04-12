@@ -1,0 +1,38 @@
+#permalink: https://github.com/abrahamdsl/philippines-howto/d2021/04/12/Income-Taxation-for-Job Orders or Professionals__fdQw4w9WgXcQ.txt
+
+# DISCLAIMER: I'm not a lawyer/CPA and this is not a binding legal advice.
+
+1) On the first business day of the year/before starting business/profession/consultancy:
+  A. Go to your LGU's Treasury Office to request for an Occupational Tax Receipt(OTR).
+  B. Register as self-employed/professional with the BIR. Usually Form 1901 is used if you don't have an existing TIN.
+   Bring contract if there is, "ledger book" to be stamped there, PHP500 registration fee.
+   As for printing of receipts, you can ask around the BIR office as they handle these for some margin, else you
+   also need to fill out something relating to "Authority to Print Receipts" (ATP)-related documents.
+2) Upon completion of your registration you should have:
+   (1) BIR Form 2303 : Certificate of Registration
+   (2) Official Receipts (OR) booklets
+   (3) Stamped book of ledger.
+   (4) "Ask for Receipt" notice.
+
+OPERATIONS
+  Anually thereafter, you need to pay an annual registration fee (ARF) on or before 30JAN.
+  Every time you are paid, you need to issue an OR to payor and record transactions in the ledger.
+
+FILING RETURNS
+  1ST QUARTER APR15 | Form 1701Qv2018
+   1. Item 23 : You should elect to choose what method of income taxation you want, for simplicity, 8% IT so
+    no hassle - that is no accountant, audited financial statements, receipts, reports to submit.
+   2. Item 26 : Tallying all of those paid to you from 0101->0331 , gross.
+   3. Item 38 G/H : The withheld tax, evidenced preferably with Form 2307 issued by your payor covering the quarter.
+   4. Item 39/41 if you have to pay or have overpaid so far: if latter, nothing to do except submit electronically. 
+  2ND QUARTER AUG15
+   Basically same as Q1 except that #3/Item 38 G/H from there be put in 38 E/F , and Item 26 are your earnings
+     from 0401-0630.
+  3RD QUARTER NOV15
+    Basically same as previous quarters, except that Item 38 E/F : Q1's Item 38 G/H  + #3/Item 38 G/H, 
+       and Item 26 are your earnings from 0701-0930.
+  WHOLE YEAR (which includes Q4) APR15 of the following year | Form 1701Av2018
+   1. Item 47 : basically gross paid to you for the year ( 0101-1231 )
+   2. Item 58: sum of positive amounts in Item 41 in the quarterly returns
+   3. Item 59: sum of amounts in Item 38 in the quarterly returns
+   4. Item 65: what you need to pay if positive. 
