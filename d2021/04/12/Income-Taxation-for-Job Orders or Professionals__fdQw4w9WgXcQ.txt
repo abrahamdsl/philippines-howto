@@ -3,7 +3,8 @@
 
 Assumptions:
   Annual revenue for the year in concern is maximum 3 million PHP.
-  There will be no other income sources [where such income are not subject to final tax. ], like a concurrent employer-employee relationship / part time work.
+  There will be no other income sources [where such income are not subject to final tax], like a concurrent employer-employee relationship / part time work.
+    An example of income subject to final tax are interest on bank deposits, dividend income [from SEC-authorized shareholdings and fixed-income investments such as bonds], PCSO lottery winnings.
   Calendar year is the person's financial/fiscal year.
 
 1) On the first business day of the year/before starting business/profession/consultancy:
@@ -21,7 +22,10 @@ Assumptions:
 OPERATIONS
   Anually thereafter, you need to pay an annual registration fee (ARF) on or before 30JAN.
   Every time you are paid, you need to issue an OR to payor and record transactions in the ledger.
-  You need to file 3 quarterly returns and the annual return.
+  ! You need to file 3 quarterly returns and the annual return.
+  !! If you want to cease operations, you need to formally close the professional/self-employment practice by going to the BIR office, surrendering unused receipts and maybe
+   the ledger book too. Unless this is done, you are always expected to pay ARF and file returns every quarter and year even if you have no revenues.
+  !!! Not doing so will incur fines, interest, penalties/charges/surcharges like 'compromise'.
 
 FILING RETURNS
   1ST QUARTER APR15 | Form 1701Qv2018
